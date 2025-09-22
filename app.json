@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "demo-game",
-    "slug": "demo-game",
+    "name": "catch-the-rat",
+    "slug": "catch-the-rat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
